@@ -49,7 +49,9 @@ Using only the output, decode the string into the input.
 
 
 # further
-Create the same for a 16-segment display:
+Create the same for a 16-segment display:\
+
+![16-seg-char-set.gif](16-seg-char-set.gif)
 
 Input
 
