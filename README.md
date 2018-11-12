@@ -1,6 +1,10 @@
 # seven-segment-display
 
+![https://media.giphy.com/media/l2SqiAlahUZxaYcAU/giphy.gif](https://media.giphy.com/media/l2SqiAlahUZxaYcAU/giphy.gif)
+
 Create a program to create a seven segment display, commonly seen on many older electronic devices.
+
+
 
 
  
